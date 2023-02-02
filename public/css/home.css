@@ -1,0 +1,29 @@
+main {
+    margin: 30px 70px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+[type='color'] {
+    height: 40px;
+}
+
+.btn {
+    width: 100%;
+}
+
+.color {
+    border-radius: 50%;
+}
+
+.color > div {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+td > form {
+    margin-bottom: 0;
+}
